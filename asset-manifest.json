@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react_first_trying_demo/static/css/main.89a6baf9.chunk.css",
+    "main.js": "/react_first_trying_demo/static/js/main.44c317ba.chunk.js",
+    "main.js.map": "/react_first_trying_demo/static/js/main.44c317ba.chunk.js.map",
+    "runtime-main.js": "/react_first_trying_demo/static/js/runtime-main.2fd364df.js",
+    "runtime-main.js.map": "/react_first_trying_demo/static/js/runtime-main.2fd364df.js.map",
+    "static/js/2.cad524c4.chunk.js": "/react_first_trying_demo/static/js/2.cad524c4.chunk.js",
+    "static/js/2.cad524c4.chunk.js.map": "/react_first_trying_demo/static/js/2.cad524c4.chunk.js.map",
+    "static/css/3.8ce544e9.chunk.css": "/react_first_trying_demo/static/css/3.8ce544e9.chunk.css",
+    "static/js/3.a705912f.chunk.js": "/react_first_trying_demo/static/js/3.a705912f.chunk.js",
+    "static/js/3.a705912f.chunk.js.map": "/react_first_trying_demo/static/js/3.a705912f.chunk.js.map",
+    "static/css/4.dd21e15c.chunk.css": "/react_first_trying_demo/static/css/4.dd21e15c.chunk.css",
+    "static/js/4.5909505c.chunk.js": "/react_first_trying_demo/static/js/4.5909505c.chunk.js",
+    "static/js/4.5909505c.chunk.js.map": "/react_first_trying_demo/static/js/4.5909505c.chunk.js.map",
+    "index.html": "/react_first_trying_demo/index.html",
+    "static/css/3.8ce544e9.chunk.css.map": "/react_first_trying_demo/static/css/3.8ce544e9.chunk.css.map",
+    "static/css/4.dd21e15c.chunk.css.map": "/react_first_trying_demo/static/css/4.dd21e15c.chunk.css.map",
+    "static/css/main.89a6baf9.chunk.css.map": "/react_first_trying_demo/static/css/main.89a6baf9.chunk.css.map",
+    "static/js/2.cad524c4.chunk.js.LICENSE.txt": "/react_first_trying_demo/static/js/2.cad524c4.chunk.js.LICENSE.txt",
+    "static/media/35.afd216a7.svg": "/react_first_trying_demo/static/media/35.afd216a7.svg",
+    "static/media/ava.png": "/react_first_trying_demo/static/media/ava.8a99c228.png",
+    "static/media/car1.34eee423.gif": "/react_first_trying_demo/static/media/car1.34eee423.gif",
+    "static/media/logo.a7a52973.png": "/react_first_trying_demo/static/media/logo.a7a52973.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fd364df.js",
+    "static/js/2.cad524c4.chunk.js",
+    "static/css/main.89a6baf9.chunk.css",
+    "static/js/main.44c317ba.chunk.js"
+  ]
+}
